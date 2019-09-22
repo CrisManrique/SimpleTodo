@@ -1,4 +1,4 @@
-# Prre-work - *Simple Todo*
+# Pre-work - *Simple Todo*
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] **User can edit old to do tasks to newer ones and save them**
 
 ## Video Walkthrough
 
