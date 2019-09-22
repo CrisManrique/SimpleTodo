@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 The concepts were easy to understand and apply, but the only challenge I encountered was remembering the syntax for 
-some of the Android Studio API methods. 
+some of the Android API methods. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
