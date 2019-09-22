@@ -4,7 +4,7 @@
 
 Submitted by: **Cristobal Manrique**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
